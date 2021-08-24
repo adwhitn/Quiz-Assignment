@@ -1,0 +1,36 @@
+[
+    {
+        "question": "Whats the best way to cook grilled cheese?",
+        "choice1": "Butter on the bread",
+        "choice2": "Oil in the pan",
+        "choice3": "No butter",
+        "choice4": "Butter in the pan",
+        "answer": 4
+    },
+    {
+        "question": "What is the first step in cooking rice?",
+        "choice1": "Boil water",
+        "choice2": "Rinse rice",
+        "choice3": "Season raw rice",
+        "choice4": "Pray",
+        "answer": 2
+    },
+    {
+        "question": "What is the best chicken meat to cook with?",
+        "choice1": "Breast",
+        "choice2": "Thighs",
+        "choice3": "Legs",
+        "choice4": "Wings",
+        "answer": 2
+    }
+]
+
+
+
+
+
+
+
+
+
+
